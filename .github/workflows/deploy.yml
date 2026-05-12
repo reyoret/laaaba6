@@ -1,4 +1,4 @@
-name: Deploy lab6 to GitHub Pages
+name: Deploy laaaba6 to GitHub Pages
 
 on:
   push:
